@@ -11,5 +11,6 @@
   "homepage": "https://seoagent.com",
   "repository": "https://github.com/Baxter-Inc/seoagent-npm",
   "license": "MIT",
-  "keywords": ["seo", "ai-seo", "aeo", "geo", "content-strategy", "technical-seo", "keyword-research"]
+  "keywords": ["seo", "ai-seo", "aeo", "geo", "content-strategy", "technical-seo", "keyword-research"],
+  "skills": ["./skills/seoagent-cli-setup/SKILL.md"]
 }
